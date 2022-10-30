@@ -50,7 +50,7 @@ You can check the kali linus tools as well from this [website](https://www.kali.
 
 ### Demo: 
 
-Today we are going to show a simple demo for slowloris tool with Jekyll local server, 
+Today we are going to show a simple demo for [slowloris](https://github.com/gkbrk/slowloris) tool with Jekyll local server, 
 
 
 [This link](https://jekyllrb.com/docs/) explains how to start a local jekyll server.
@@ -78,3 +78,6 @@ Further reading:
 
 - [Great article with full details](https://www.comparitech.com/net-admin/dos-vs-ddos-attacks-differences-prevention/)
 - [Anycast network](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/)
+- [What is DDos](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)
+- [What is Botnet](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-botnet/)
+- [Botnet review](https://link.springer.com/article/10.1007/s12065-019-00310-w)
